@@ -1,5 +1,7 @@
 # Programme
 
+This is a suggested programme - suggest changes to the structure if you think they're needed.
+
 ## Introduction
 
 Paddy McCann, Research Computing, The Library
