@@ -1,5 +1,7 @@
 # Programme
 
+[![Join the chat at https://gitter.im/StAResComp/rescomp-network-launch](https://badges.gitter.im/StAResComp/rescomp-network-launch.svg)](https://gitter.im/StAResComp/rescomp-network-launch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is a suggested programme - suggest changes to the structure if you think they're needed.
 
 ## Introduction
