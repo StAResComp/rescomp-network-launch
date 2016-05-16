@@ -6,6 +6,8 @@ The [St Andrews University Library](http://www.st-andrews.ac.uk/library) is host
 
 Find out more about the Network via the [Library](http://www.st-andrews.ac.uk/libraryblog/2016/02/do-you-write-software-for-research/) [blog](http://www.st-andrews.ac.uk/libraryblog/2016/03/research-computing-network-update/). You can also join the [mailing list](https://pat.st-andrews.ac.uk/mail/info/rescomp-network).
 
+What do you want to see at the event? Submit pull requests, open issues, chat on gitter (https://gitter.im/StAResComp/rescomp-network-launch), email the list or pgm5.
+
 ## Proposed Outline Programme
 
 - Intro
