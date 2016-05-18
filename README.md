@@ -21,4 +21,4 @@ Will be arranged shortly
 
 ## Speakers
 
-- We need speakers - on anything that you think will be of interest to other members. Maybe you'd like to try out something you're proposing for the [RSE Conference](http://www.rse.ac.uk/conf2016)?
+- We need speakers - on anything that you think will be of interest to other members. Maybe you'd like to try out something you're proposing for the [RSE Conference](http://www.rse.ac.uk/conf2016)? We're anticipating short talks of about 10 mins, depending on how many speakers we get.
