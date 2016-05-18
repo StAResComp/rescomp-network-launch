@@ -10,12 +10,17 @@ Paddy McCann, Research Computing, The Library
 
 ## Short Talks From Members
 
-Suggested topic: "Why I use X". Feel free to suggest others. Feel free to submit a pull request with a talk added to the list below; alternatively, email the list.
+Suggested topics: "Why I use X", "Why I write code". Feel free to suggest others. Feel free to submit a pull request with a talk added to the list below; alternatively, email the list. Thinking at the moment of ~10 minute talks - may tweak that according to the number of speakers.
 
 - [Speaker]: [Topic]
+- Roman Spesyvtsev: "Why I write code"
 
 ## Discussion
 
 Proposed topic: "What we need from a St Andrews Research Computing Network". Feel free to submit a pull request adding points you'd like to see covered; alternatively, email the list.
 
 - [Point to be covered]
+- Possible activities:
+ - Training (e.g. virtualisation, software licensing, version control...) - what topics, who to provide?
+ - Book reading group
+ - ...
