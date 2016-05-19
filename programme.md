@@ -14,6 +14,7 @@ Suggested topics: "Why I use X", "Why I write code". Feel free to suggest others
 
 - [Speaker]: [Topic]
 - Roman Spesyvtsev: "Why I write code"
+- Ken Munro: Vim
 
 ## Discussion
 
