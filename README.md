@@ -15,6 +15,8 @@ What do you want to see at the event? Submit pull requests, open [issues](https:
 - Food
 - Discussion - what do we want from the Network (over the next year)?
 
+More details on the [Programme page](https://github.com/StAResComp/rescomp-network-launch/blob/master/programme.md).
+
 ## Registration
 
 Will be arranged shortly
