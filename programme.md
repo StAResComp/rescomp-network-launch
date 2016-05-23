@@ -13,6 +13,7 @@ Paddy McCann, Research Computing, The Library
 Suggested topics: "Why I use X", "Why I write code". Feel free to suggest others. Feel free to submit a pull request with a talk added to the list below; alternatively, email the list. Thinking at the moment of ~10 minute talks - may tweak that according to the number of speakers.
 
 - [Speaker]: [Topic]
+- Alex Konovalov: "The Software Sustainability Institute"
 - Roman Spesyvtsev: "Why I write code"
 - Ken Munro: Vim
 - Swithun Crowe: Solr
