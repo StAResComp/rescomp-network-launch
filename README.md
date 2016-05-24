@@ -28,3 +28,4 @@ More details on the [Programme page](https://github.com/StAResComp/rescomp-netwo
 ## Discussion
 
 - What points would you like to see covered in a discussion of future Network activities?
+- How should the discussion be structured?
