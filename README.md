@@ -19,7 +19,7 @@ More details on the [Programme page](https://github.com/StAResComp/rescomp-netwo
 
 ## Registration
 
-Will be arranged shortly
+Register for free with [Eventbrite](https://www.eventbrite.co.uk/e/st-andrews-research-computing-network-launch-tickets-25542882449).
 
 ## Speakers
 
