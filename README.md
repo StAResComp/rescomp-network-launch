@@ -24,3 +24,7 @@ More details on the [Programme page](https://github.com/StAResComp/rescomp-netwo
 ## Speakers
 
 - We need speakers - on anything that you think will be of interest to other members. Maybe you'd like to try out something you're proposing for the [RSE Conference](http://www.rse.ac.uk/conf2016)? We're anticipating short talks of about 10 mins, depending on how many speakers we get.
+
+## Discussion
+
+- What points would you like to see covered in a discussion of future Network activities?
