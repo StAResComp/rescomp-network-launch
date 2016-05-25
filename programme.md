@@ -12,7 +12,6 @@ Paddy McCann, Research Computing, The Library
 
 Suggested topics: "Why I use X", "Why I write code". Feel free to suggest others. Feel free to submit a pull request with a talk added to the list below; alternatively, email the list. Thinking at the moment of ~10 minute talks - may tweak that according to the number of speakers.
 
-- [Speaker]: [Topic]
 - Alex Konovalov: "The Software Sustainability Institute"
 - Roman Spesyvtsev: "Why I write code"
 - Ken Munro: Vim
@@ -22,7 +21,9 @@ Suggested topics: "Why I use X", "Why I write code". Feel free to suggest others
 
 Proposed topic: "What we need from a St Andrews Research Computing Network". Feel free to submit a pull request adding points you'd like to see covered; alternatively, email the list.
 
-- [Point to be covered]
+- Communications:
+ - Participation: what kind of discussions do you want to participate in?
+ - Platforms: we've got the mailing list, but are there other, more suitable platforms? Slack? A shared blog? Other social media platforms?
 - Possible activities:
  - Training (e.g. virtualisation, software licensing, version control...) - what topics, who to provide?
  - Book reading group
