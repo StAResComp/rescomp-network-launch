@@ -32,6 +32,7 @@ class: center, middle, inverse
 - **What can we do to improve research software across the University?**
 
 ???
+
 What positions do developers hold? What kind of work are they doing? Are they isolated? What support is available at the School and University level?
 
 ---
@@ -43,6 +44,7 @@ class: inverse
 ![Screenshot of Library blogpost title "Do you write software for research?" ](Do_you_write_software_for_research__–_Library_Blog.png "Do you write software for research?")
 
 ???
+
 Had a few informal chats before this, but this was posted on the Library Blog on 22 February. We had a handful of responses, then Mary sent it out to School administrators and computing officers - quickly had more than 40. Lots of comments, and a fair amount of enthusiasm. Some one complained that Fortran was missing from the word cloud, so...
 
 Blogpost at http://www.st-andrews.ac.uk/libraryblog/2016/02/do-you-write-software-for-research/
@@ -54,6 +56,7 @@ Blogpost at http://www.st-andrews.ac.uk/libraryblog/2016/02/do-you-write-softwar
 ![Word cloud showing technologies in use by respondents to the blogpost on the previous slide](http://www.st-andrews.ac.uk/libraryblog/wp-content/uploads/WordItOut-word-cloud-1521882.png "Technology word cloud")
 
 ???
+
 Responses from
 - Maths and Statistics
 - History
@@ -69,3 +72,45 @@ Responses from
 A number of these from CIRCA, CREEM, SMRU
 
 Blogpost at http://www.st-andrews.ac.uk/libraryblog/2016/03/research-computing-network-update/
+
+---
+
+class: center, middle
+
+I'm not really a developer, I just...
+
+...does that count?
+
+???
+
+- This has come up in conversations I've had with individuals and in responses to the blogpost.
+- People who "just" write R scripts, or LabVIEW, or think their code isn't up to some level of quality or elegance
+- The answer is always
+
+---
+
+class: center, middle, inverse
+
+# Yes
+
+???
+
+If you do **any** software development or write **any** code as part of your contribution to research at this University, then we want to hear from you. Even if you just want to do that, we want to hear from you. There will be things that you can learn from the other members of this network and there will probably be things you can teach them.
+
+---
+
+class: center, middle
+
+# Applications Developer (Research Computing)
+
+???
+
+That's my job title. I should probably check this, but I'm willing to bet that I'm one of very few people in the network, never mind this room, with the 'D' word in their job title.
+
+---
+
+class: center, middle, inverse
+
+# Thank-you
+
+## pgm5@st-andrews.ac.uk
