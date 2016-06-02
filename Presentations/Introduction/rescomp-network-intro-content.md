@@ -8,6 +8,10 @@ class: center, middle, inverse
 
 ### 14 June 2016
 
+???
+
+Housekeeping... Safety announcements?
+
 ---
 
 # Research Computing Service
@@ -85,7 +89,7 @@ I'm not really a developer, I just...
 
 - This has come up in conversations I've had with individuals and in responses to the blogpost.
 - People who "just" write R scripts, or LabVIEW, or think their code isn't up to some level of quality or elegance
-- The answer is always
+- The answer is always...
 
 ---
 
@@ -95,7 +99,7 @@ class: center, middle, inverse
 
 ???
 
-If you do **any** software development or write **any** code as part of your contribution to research at this University, then we want to hear from you. Even if you just want to do that, we want to hear from you. There will be things that you can learn from the other members of this network and there will probably be things you can teach them.
+If you do **any** software development or write **any** code as part of your contribution to research at this University, then we want to hear from you. Even if you just want to do that, but don't at the moment, we want to hear from you. There will be things that you can learn from the other members of this network and there will probably be things you can teach them.
 
 ---
 
@@ -105,7 +109,21 @@ class: center, middle
 
 ???
 
-That's my job title. I should probably check this, but I'm willing to bet that I'm one of very few people in the network, never mind this room, with the 'D' word in their job title.
+That's my job title. I should probably check this, but I'm willing to bet that I'm one of very few people in the network, never mind this room, with the 'D' word in their job title. For a significant number, software development won't be in their job description and the software they produce won't necessarily help them progress in their career. Research data is gaining acceptability as a first-class research output; software is some way behind that. Alex will talk a bit more about this when he discusses the Software Sustainability Institute and their Research Software Engineers campaign, but for now just note that if research software development is something that you need to do but which isn't always recognised as an important part of your job, you're not alone.
+
+---
+
+# Now what?
+
+- We've got a list of names and have turned it into a mailing list
+- How can we use this group to give members the support they want/need?
+ - Training?
+ - Other events?
+ - Reading groups?
+ - Requirements gathering for central services?
+ - Influence policy development?
+
+Will discuss later today - and beyond.
 
 ---
 
@@ -114,3 +132,5 @@ class: center, middle, inverse
 # Thank-you
 
 ## pgm5@st-andrews.ac.uk
+
+(made using remarkjs.com)

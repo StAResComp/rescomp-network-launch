@@ -16,6 +16,7 @@ Suggested topics: "Why I use X", "Why I write code". Feel free to suggest others
 - Roman Spesyvtsev: "Why I write code"
 - Ken Munro: Vim
 - Swithun Crowe: Solr
+- Rob Schick: Reproducible Research with R
 
 ## Discussion
 
