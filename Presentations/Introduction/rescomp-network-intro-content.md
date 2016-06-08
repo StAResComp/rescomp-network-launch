@@ -115,15 +115,53 @@ That's my job title. I should probably check this, but I'm willing to bet that I
 
 # Now what?
 
-- We've got a list of names and have turned it into a mailing list
-- How can we use this group to give members the support they want/need?
- - Training?
- - Other events?
- - Reading groups?
- - Requirements gathering for central services?
- - Influence policy development?
+1. Blog post &#10004;
+2. Mailing list &#10004;
+3. Launch event
+3. ...
 
-Will discuss later today - and beyond.
+???
+
+- What do we use this mailing list for?
+ - I'd like to find out a bit more detail on what it's like to develop software for research at the University - what support do you get vs what support do you need?
+ - But how can you benefit from this network, from the expertise of your colleagues?
+  - What discussions should we be having?
+  - Where should we be having them, if not on the list?
+   - Other platforms (e.g. Slack)
+   - In the Pub?
+ - What about training (e.g. Virtualisation, Software Licensing, Version Control)?
+ - Other events?
+ - Developing guidance or even University policy?
+
+---
+
+# Central Services
+
+- The Applications Team (and others) in IT Services use self-hosted instances of
+ - Git
+ - Jira
+ - Jenkins CI
+
+Would these be of use?
+
+???
+
+These (particularly Git and Jira) could be opened up to use by others in the University if they would be of use. The Git setup is plain Git, accessed via client software once your SSH public key has been added. Need to contact the IT Service desk to get a repository created. Jira is a commercial product, with the cost of the license linked to user numbers. Again, creating a project requires going to the IT Service Desk.
+
+---
+
+class: inverse
+
+# Next
+
+- Talks
+ - Alex Konovalov - The Software Sustainability Institute, Software Carpentry and RSEs
+ - Roman Spesyvtsev - Why I write code
+ - Rob Schick - Using R, RStudio, and git to Support a Reproducible Research Workflow
+ - Swithun Crowe - Become a Solr power user: getting the most out of Solr
+ - Ken Munro - Vim
+- Break
+- Discussion
 
 ---
 

@@ -15,8 +15,8 @@ Suggested topics: "Why I use X", "Why I write code". Feel free to suggest others
 - Alex Konovalov: "The Software Sustainability Institute"
 - Roman Spesyvtsev: "Why I write code"
 - Ken Munro: Vim
-- Swithun Crowe: Solr
-- Rob Schick: Reproducible Research with R
+- Swithun Crowe: "Become a Solr power user: getting the most out of Solr"
+- Rob Schick: "Using R, RStudio, and git to Support a Reproducible Research Workflow"
 
 ## Discussion
 
