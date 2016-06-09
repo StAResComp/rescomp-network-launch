@@ -159,7 +159,7 @@ class: inverse
  - Roman Spesyvtsev - Why I write code
  - Rob Schick - Using R, RStudio, and git to Support a Reproducible Research Workflow
  - Swithun Crowe - Become a Solr power user: getting the most out of Solr
- - Ken Munro - Vim
+ - Ken Munro - Vim: Why Not?
 - Break
 - Discussion
 
