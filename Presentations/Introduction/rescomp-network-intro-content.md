@@ -156,7 +156,7 @@ class: inverse
 
 - Talks
  - Alex Konovalov - The Software Sustainability Institute, Software Carpentry and RSEs
- - Roman Spesyvtsev - Why I write code
+ - Roman Spesyvtsev - Why do I write code? Coding platforms for an experimental physicist
  - Rob Schick - Using R, RStudio, and git to Support a Reproducible Research Workflow
  - Swithun Crowe - Become a Solr power user: getting the most out of Solr
  - Ken Munro - Vim: Why Not?

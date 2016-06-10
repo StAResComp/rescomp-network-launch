@@ -14,9 +14,9 @@ Suggested topics: "Why I use X", "Why I write code". Feel free to suggest others
 
 - Alex Konovalov: "The Software Sustainability Institute"
 - Roman Spesyvtsev: "Why do I write code? Coding platforms for an experimental physicist"
-- Ken Munro: "Vim: Why Not?"
 - Swithun Crowe: "Become a Solr power user: getting the most out of Solr"
 - Rob Schick: "Using R, RStudio, and git to Support a Reproducible Research Workflow"
+- Ken Munro: "Vim: Why Not?"
 
 ## Discussion
 
