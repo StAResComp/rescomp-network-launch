@@ -113,6 +113,46 @@ That's my job title. I should probably check this, but I'm willing to bet that I
 
 ---
 
+class: center, middle
+
+# Software Sustainability Institute
+
+![Better Software Better Research](http://www.software.ac.uk/sites/default/files/images/content/BetterSoftwareBetterResearchImage.jpg)
+
+http://software.ac.uk
+
+???
+
+A national facility for cultivating and improving research software to support world-class research.
+
+# Themes
+
+The first of these is Skills and Training: creating a capable research software community by enabling access to software development training for all researchers and teaching them methods to advance their research.
+
+Recognition and Reward promotes and contributes to systems of credit for good software development and reuse practice.
+
+Career Paths recognises and champions the varied job roles associated with research software; with a primary focus on the academic sector but suggesting industrial practice where applicable.
+
+Finally, Reproducible Research promotes the fundamental place of software in supporting confidence in the research process and its results.
+
+---
+
+# Research Software Engineers
+
+http://rse.ac.uk
+
+![First RSE Conference](http://www.rse.ac.uk/images/RSEConf16_Poster_Flyer_May16.jpg)
+
+???
+
+The SSI's RSE Campaign is holding it's first conference in September.
+
+The people behind research software - Research Software Engineers (RSEs) - lack recognition and reward for the incredible contribution they make to research. The RSE Community have come together to raise awareness of this issue, to campaign for change, and to share knowledge and collaborate to improve research software.
+
+I first learned about the RSE campaign shortly after taking up my position here in summer 2014, and attended a meeting they ran that autumn. The creation of local networks/groups was one of the suggested activities coming out of that meeting.
+
+---
+
 # Now what?
 
 1. Blog post &#10004;
