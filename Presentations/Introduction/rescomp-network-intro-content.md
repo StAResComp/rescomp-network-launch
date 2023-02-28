@@ -109,7 +109,7 @@ class: center, middle
 
 ???
 
-That's my job title. I should probably check this, but I'm willing to bet that I'm one of very few people in the network, never mind this room, with the 'D' word in their job title. For a significant number, software development won't be in their job description and the software they produce won't necessarily help them progress in their career. Research data is gaining acceptability as a first-class research output; software is some way behind that. Alex will talk a bit more about this when he discusses the Software Sustainability Institute and their Research Software Engineers campaign, but for now just note that if research software development is something that you need to do but which isn't always recognised as an important part of your job, you're not alone.
+That's my job title. I should probably check this, but I'm willing to bet that I'm one of very few people in the network, never mind this room, with the 'D' word in their job title. For a significant number, software development won't be in their job description and the software they produce won't necessarily help them progress in their career. Research data is gaining acceptability as a first-class research output; software is some way behind that. Olexandr will talk a bit more about this when he discusses the Software Sustainability Institute and their Research Software Engineers campaign, but for now just note that if research software development is something that you need to do but which isn't always recognised as an important part of your job, you're not alone.
 
 ---
 
@@ -195,7 +195,7 @@ class: inverse
 # Next
 
 - Talks
- - Alex Konovalov - The Software Sustainability Institute, Software Carpentry and RSEs
+ - Olexandr Konovalov - The Software Sustainability Institute, Software Carpentry and RSEs
  - Roman Spesyvtsev - Why do I write code? Coding platforms for an experimental physicist
  - Rob Schick - Using R, RStudio, and git to Support a Reproducible Research Workflow
  - Swithun Crowe - Become a Solr power user: getting the most out of Solr
